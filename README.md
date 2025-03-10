@@ -4,7 +4,7 @@ This dataset provides a comprehensive collection of consumer behavior data that 
 
 The dataset is designed to help researchers, data scientists, and marketers gain insights into consumer purchasing behavior across a wide range of categories. By analyzing this dataset, users can identify key trends, segment customers, and make data-driven decisions to improve product offerings, marketing strategies, and customer engagement.
 
-Key Features:
+#### Key Features:
 Customer Demographics: Understand age, income, gender, and education level for better segmentation and targeted marketing.
 
 Purchase Behavior: Includes purchase amount, frequency, category, and channel preferences to assess spending patterns.
@@ -17,7 +17,7 @@ Decision-Making: Time spent on product research, time to decision, and purchase 
 
 Influences on Purchase: Factors such as social media influence, discount sensitivity, and return rates are included to analyze how external factors affect purchasing behavior.
 
-Columns Overview:
+#### Columns Overview:
 
 Customer_ID: Unique identifier for each customer.
 
@@ -77,7 +77,7 @@ Payment_Frequency: Frequency of payment (categorical: One-time, Subscription, In
 
 Time_to_Decision: Time taken from consideration to actual purchase (in days).
 
-Use Cases:
+#### Use Cases:
 
 Market Segmentation: Segment customers based on demographics, preferences, and behavior.
 
@@ -85,7 +85,7 @@ Customer Profiling: Build detailed profiles of different consumer segments based
 
 Retail and E-commerce Insights: Analyze purchase channels, payment methods, and shipping preferences to optimize marketing and sales strategies.
 
-Target Audience:
+#### Target Audience:
 
 Data scientists and analysts looking for consumer behavior data.
 
